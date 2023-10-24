@@ -23,7 +23,6 @@ const fetchData = async () => {
         const data = await res.json();
         pintarCards(data);
     } catch (error) {
-        console.log(error);
     }
 };
 
