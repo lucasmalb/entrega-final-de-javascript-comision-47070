@@ -1,0 +1,62 @@
+[
+    {
+        "precio": 350,
+        "id": 1,
+        "titulo": "Leche Multivitaminas 3% La Serenísima  1l",
+        "foto": "https://masonlineprod.vtexassets.com/arquivos/ids/266127-230-230?v=638056030146930000&width=230&height=230&aspect=true"
+    },
+        {
+        "precio": 500,
+        "id": 2,
+        "titulo": "Cafe Instantaneo La Virginia Seleccion Tostado 100g",
+        "foto": "https://masonlineprod.vtexassets.com/arquivos/ids/250088-230-230?v=637907529877070000&width=230&height=230&aspect=true"
+    },
+    {
+        "precio": 981,
+        "id": 3,
+        "titulo": "Azucar Check Comun Tipo A 1kg",
+        "foto": "https://masonlineprod.vtexassets.com/arquivos/ids/275203-230-230?v=638137353728170000&width=230&height=230&aspect=true"
+    },
+    {
+        "precio": 679,
+        "id": 4,
+        "titulo": "Mermelada Arcor Light De Durazno 390gr",
+        "foto": "https://masonlineprod.vtexassets.com/arquivos/ids/211476-230-230?v=637853214870800000&width=230&height=230&aspect=true"
+    },
+    {
+        "precio": 1857,
+        "id": 5,
+        "titulo": "Miel Cremosa Terra Argentina X 500g",
+        "foto": "https://masonlineprod.vtexassets.com/arquivos/ids/205248-230-230?v=637850739789570000&width=230&height=230&aspect=true"
+    },
+    {
+        "precio": 708,
+        "id": 6,
+        "titulo": "Te En Saquitos Green Hills 50 Sq",
+        "foto": "https://masonlineprod.vtexassets.com/arquivos/ids/235360-230-230?v=637860987735600000&width=230&height=230&aspect=true"
+    },
+    {
+        "precio": 1400,
+        "id": 7,
+        "titulo": "Yerba Mate 4f Mañanita 1kg",
+        "foto": "https://masonlineprod.vtexassets.com/arquivos/ids/195472-230-230?v=637841685168300000&width=230&height=230&aspect=true"
+    },
+    {
+        "precio": 512,
+        "id": 8,
+        "titulo": "Galletitas Surtido Bagley 398g",
+        "foto": "https://masonlineprod.vtexassets.com/arquivos/ids/251948-230-230?v=637926429733230000&width=230&height=230&aspect=true"
+    },
+    {
+        "precio": 1186,
+        "id": 9,
+        "titulo": "Alfajor Terrabusi 50gr X 6u",
+        "foto": "https://masonlineprod.vtexassets.com/arquivos/ids/277098-230-230?v=638156469896700000&width=230&height=230&aspect=true"
+    },
+    {
+        "precio": 1800,
+        "id": 10,
+        "titulo": "Pan Dulce Con Fruta De La Panaderia 400 Gr",
+        "foto": "https://masonlineprod.vtexassets.com/arquivos/ids/207634-230-230?v=637851050830000000&width=230&height=230&aspect=true"
+    }
+    ]
